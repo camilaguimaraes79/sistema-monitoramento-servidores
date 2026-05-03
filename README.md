@@ -32,6 +32,5 @@ python main.py
 - Python 3.14
 - Orientação a Objetos (POO)
 
-## 👩‍💻 Autora
 
 Feito com 💙 enquanto aprendo Python!
